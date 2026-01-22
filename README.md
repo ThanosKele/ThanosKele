@@ -14,8 +14,8 @@ I am a dedicated Cloud Engineer with a strong foundation in AWS services, focusi
 * **[Receipt AI Scanner](https://github.com/ThanosKele/aws-serverless-receipt-scanner)**: 
   * *Status: In Development / Testing Phase* 🛠️
   * An automated OCR tool using **Amazon Textract**, Lambda, and DynamoDB. Documentation is live, code deployment pending final production testing.
-* **Cloud Resume Challenge**: (Coming Soon) 
-  * Personal portfolio hosted on AWS (S3, CloudFront, Route 53).
+* **[Cloud Resume Challenge](https://github.com/ThanosKele/aws-cloud-resume-portfolio)**: 
+  * Personal portfolio hosted on AWS (S3, CloudFront, API Gateway, DynamoDB, Lambda).
 * **Terraform 3-Tier Web App**: (Coming Soon) 
   * Infrastructure as Code (IaC) deployment.
 
