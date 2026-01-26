@@ -20,11 +20,11 @@ An automated OCR pipeline that processes receipts using **Amazon Textract**.
 * **Architecture:** Event-driven workflow (S3 ➔ Lambda ➔ Textract ➔ DynamoDB).
 * **Key Features:** Multi-language support (English/Greek), real-time email notifications via **SNS**, and automated data parsing for financial metadata.
 
-#### 📄 [Cloud Resume Challenge](https://github.com/ThanosKele/aws-cloud-resume-portfolio)
-**Status: Completed ✅**
-A full-stack serverless portfolio demonstrating core cloud infrastructure skills.
+#### 🌐 [Serverless Cloud Portfolio](https://github.com/ThanosKele/aws-cloud-resume-portfolio)
+**Status: Live ✅**
+A production-ready web application hosting my professional portfolio.
 * **Services:** S3 (Hosting), CloudFront (CDN), API Gateway, DynamoDB (Visitor Counter), and Lambda (Python).
-* **DevOps:** Includes custom domain integration and secure HTTPS communication.
+* **Key Features:** Secure HTTPS content delivery, low-latency global access, and serverless backend logic.
 
 #### 🏗️ Terraform 3-Tier Web App
 **Status: In Progress 🛠️**
@@ -33,10 +33,10 @@ Automating infrastructure deployment using **Infrastructure as Code (IaC)** to e
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Cloud Infrastructure:** Amazon S3, AWS Lambda, DynamoDB, SNS, Amazon Textract, CloudFront, IAM, VPC, Route 53.
-- **Languages:** - **Proficient:** Python (Boto3), SQL, Java, C, Javascript, HTML/CSS, PHP.
-  - **Learning:** Terraform, Laravel.
-- **DevOps & Tools:** Git, GitHub Actions, VS Code, Linux.
+- **Cloud Infrastructure:** Amazon S3, AWS Lambda, Amazon API Gateway, DynamoDB, SNS, Amazon Textract, CloudFront, IAM, VPC.
+- **Languages & Scripting:** Python, SQL, Java, C, Javascript, HTML/CSS, PHP.
+- **Currently Learning:** Terraform, Laravel.
+- **Tools & Environment:** AWS CLI, Git, VS Code, Linux (CLI).
 
 ---
 
