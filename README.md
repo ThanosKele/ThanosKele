@@ -26,11 +26,10 @@ A production-ready web application hosting my professional portfolio.
 * **Services:** S3 (Hosting), CloudFront (CDN), API Gateway, DynamoDB (Visitor Counter), and Lambda (Python).
 * **Key Features:** Secure HTTPS content delivery, low-latency global access, and serverless backend logic.
 
-#### 🏗️ AWS High Availability 2-Tier Architecture
+#### 🏗️ [AWS High Availability 2-Tier Architecture](https://github.com/ThanosKele/aws-terraform-ha-architecture)
 **Status: Completed ✅** Automated the deployment of a resilient web environment using **Terraform (IaC)**.
 * **Key Components:** VPC, EC2 Instances, Application Load Balancer (ALB), Auto Scaling Group (ASG), and Multi-AZ RDS.
 * **Highlight:** Full automation of infrastructure, designed for zero downtime and automated failover.
-* [View Project Repository 🚀](https://github.com/ThanosKele/aws-terraform-ha-architecture)
 
 ---
 
