@@ -35,8 +35,8 @@ A production-ready web application hosting my professional portfolio.
 
 ### 🛠️ Tech Stack & Skills
 - **Cloud Infrastructure:** Amazon S3, AWS Lambda, Amazon API Gateway, DynamoDB, SNS, Amazon Textract, CloudFront, IAM, VPC.
-- **Languages & Scripting:** Python, SQL, Java, C, Javascript, HTML/CSS, PHP.
-- **Currently Learning:** Terraform, Laravel.
+- **Languages & Scripting:** Terraform, Python, SQL, Java, C, Javascript, HTML/CSS, PHP.
+- **Currently Learning:** Laravel.
 - **Tools & Environment:** AWS CLI, Git, VS Code, Linux (CLI).
 
 ---
