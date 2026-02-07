@@ -22,9 +22,10 @@ An automated OCR pipeline that processes receipts using **Amazon Textract**.
 
 #### 🌐 [Serverless Cloud Portfolio](https://github.com/ThanosKele/aws-cloud-resume-portfolio)
 **Status: Live ✅**
-A production-ready web application hosting my professional portfolio.
-* **Services:** S3 (Hosting), CloudFront (CDN), API Gateway, DynamoDB (Visitor Counter), and Lambda (Python).
-* **Key Features:** Secure HTTPS content delivery, low-latency global access, and serverless backend logic.
+My professional portfolio, migrated from Serverless to a containerized architecture on AWS EKS.
+* **Architecture:** Docker containers orchestrated by Kubernetes (EKS) with ALB Ingress and DynamoDB.
+* **Frontend:** Hosted on S3 and distributed via CloudFront with **automated CI/CD pipelines**.
+* **Key Features:** Scalable microservices architecture, Docker containerization, and secure HTTPS access.
 
 #### 🏗️ [AWS High Availability 2-Tier Architecture](https://github.com/ThanosKele/aws-terraform-ha-architecture)
 **Status: Completed ✅** Automated the deployment of a resilient web environment using **Terraform (IaC)**.
@@ -34,10 +35,11 @@ A production-ready web application hosting my professional portfolio.
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Cloud Infrastructure:** Amazon S3, AWS Lambda, Amazon API Gateway, DynamoDB, SNS, Amazon Textract, CloudFront, IAM, VPC.
-- **Languages & Scripting:** Terraform, Python, SQL, Java, C, Javascript, HTML/CSS, PHP.
+- **Cloud Infrastructure:** Amazon EKS, Docker, Amazon ECR, ALB, Amazon S3, CloudFront, DynamoDB, IAM, VPC, AWS Lambda.
+- **CI/CD & DevOps:** GitHub Actions, Kubernetes (kubectl), Git, AWS CLI, Linux (CLI), Terraform.
+- **Languages & Scripting:** Python, SQL, Java, C, JavaScript, HTML/CSS, PHP.
 - **Currently Learning:** Laravel.
-- **Tools & Environment:** AWS CLI, Git, VS Code, Linux (CLI).
+- **Tools & Environment:** VS Code, Docker Desktop.
 
 ---
 
