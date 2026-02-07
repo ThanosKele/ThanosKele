@@ -38,7 +38,7 @@ My professional portfolio, migrated from Serverless to a containerized architect
 - **Cloud Infrastructure:** Amazon EKS, Docker, Amazon ECR, ALB, Amazon S3, CloudFront, DynamoDB, IAM, VPC, AWS Lambda.
 - **CI/CD & DevOps:** GitHub Actions, Kubernetes (kubectl), Git, AWS CLI, Linux (CLI), Terraform.
 - **Languages & Scripting:** Python, SQL, Java, C, JavaScript, HTML/CSS, PHP.
-- **Currently Learning:** Laravel.
+- **Currently Learning:** Kubernetes Administration (CKA), Laravel.
 - **Tools & Environment:** VS Code, Docker Desktop.
 
 ---
