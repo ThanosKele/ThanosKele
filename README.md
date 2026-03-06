@@ -14,6 +14,14 @@ I am a Cloud Engineer focused on building **Serverless Event-Driven Architecture
 
 ### 🚀 Featured AWS Projects
 
+#### 🏗️ [AWS EKS Showcase Infrastructure](https://github.com/ThanosKele/aws-eks-terraform-project)
+**Status: Completed & Active ✅**
+*(Note: Active showcase until March 10th, 2026. After this date, status will change to: Completed ✅ Active ❌)*
+A production-ready Kubernetes infrastructure provisioned on AWS using Terraform, demonstrating high availability and automated workload management.
+* **Infrastructure:** Multi-AZ EKS Cluster (v1.31) with Private Subnets, NAT Gateways, and KMS encryption.
+* **Scaling:** Implemented **Horizontal Pod Autoscaler (HPA)** for dynamic replica management based on CPU load.
+* **Deployment:** Automated provisioning of a custom Nginx Showcase Dashboard via Kubernetes ConfigMaps.
+
 #### 🧾 [AI-Powered Receipt Scanner](https://github.com/ThanosKele/aws-serverless-receipt-scanner)
 **Status: Production Ready ✅**
 An automated OCR pipeline that processes receipts using **Amazon Textract**.
@@ -22,10 +30,10 @@ An automated OCR pipeline that processes receipts using **Amazon Textract**.
 
 #### 🌐 [Serverless Cloud Portfolio](https://github.com/ThanosKele/aws-cloud-resume-portfolio)
 **Status: Live ✅**
-My professional portfolio, migrated from Serverless to a containerized architecture on AWS EKS.
-* **Architecture:** Docker containers orchestrated by Kubernetes (EKS) with ALB Ingress and DynamoDB.
-* **Frontend:** Hosted on S3 and distributed via CloudFront with **automated CI/CD pipelines**.
-* **Key Features:** Scalable microservices architecture, Docker containerization, and secure HTTPS access.
+My professional portfolio, reflecting a complete architectural journey: originally built as **Serverless**, then migrated to a **containerized EKS architecture** as a hands-on migration challenge, and recently reverted to **Serverless** for optimal performance and cost-efficiency.
+* **Architecture:** Powered by AWS Lambda, API Gateway, and DynamoDB.
+* **Frontend:** Securely delivered via S3 and distributed globally via **Amazon CloudFront**.
+* **CI/CD:** Fully automated pipelines using GitHub Actions for seamless updates.
 
 #### 🏗️ [AWS High Availability 2-Tier Architecture](https://github.com/ThanosKele/aws-terraform-ha-architecture)
 **Status: Completed ✅** Automated the deployment of a resilient web environment using **Terraform (IaC)**.
