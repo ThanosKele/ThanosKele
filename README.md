@@ -15,8 +15,7 @@ I am a Cloud Engineer focused on building **Serverless Event-Driven Architecture
 ### 🚀 Featured AWS Projects
 
 #### 🏗️ [AWS EKS Showcase Infrastructure](https://github.com/ThanosKele/aws-eks-terraform-infrastructure)
-**Status: Completed & Active ✅**
-*(Note: Active showcase until March 10th, 2026. After this date, status will change to: Completed ✅ Active ❌)*
+**Status: Completed ✅ Active ❌**
 A production-ready Kubernetes infrastructure provisioned on AWS using Terraform, demonstrating high availability and automated workload management.
 * **Infrastructure:** Multi-AZ EKS Cluster (v1.31) with Private Subnets, NAT Gateways, and KMS encryption.
 * **Scaling:** Implemented **Horizontal Pod Autoscaler (HPA)** for dynamic replica management based on CPU load.
