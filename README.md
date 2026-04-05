@@ -1,11 +1,12 @@
 # Hi there! I'm Thanos Kelempekas 👋
 
-### ☁️ Certified AWS Solutions Architect & AI Builder
-I am a Cloud Engineer focused on building **Serverless Event-Driven Architectures** and **AI-Integrated Solutions**. I specialize in automating complex workflows using the AWS ecosystem.
+### ☁️ Cloud Engineer @ Deloitte | 3x AWS & CKA Certified
+I am a Cloud Engineer focused on building **High Availability Cloud Infrastructures**, **Containerized Environments (Kubernetes)**, and **AI-Integrated Solutions**. I specialize in automating complex workflows and bridging the gap between architectural design and professional DevOps deployments using the AWS ecosystem and IaC tools.
 
 ---
 
 ### 📜 Professional Certifications
+![CKA](https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![AWS SAA](https://img.shields.io/badge/AWS-Certified_Solutions_Architect_Associate-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS AI Practitioner](https://img.shields.io/badge/AWS-Certified_AI_Practitioner-8C4FFF?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![AWS Cloud Practitioner](https://img.shields.io/badge/AWS-Certified_Cloud_Practitioner-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -42,12 +43,10 @@ My professional portfolio, reflecting a complete architectural journey: original
 ---
 
 ### 🛠️ Tech Stack & Skills
-- **Cloud Infrastructure:** Amazon EKS, Docker, Amazon ECR, ALB, Amazon S3, CloudFront, DynamoDB, IAM, VPC, AWS Lambda.
-- **CI/CD & DevOps:** GitHub Actions, Kubernetes (kubectl), Git, AWS CLI, Linux (CLI), Terraform.
+- **Orchestration & Cloud:** Kubernetes (CKA), Amazon EKS, Docker, Amazon ECR, Amazon S3, CloudFront, DynamoDB, AWS Lambda, VPC, ALB, IAM.
+- **IaC & DevOps:** Terraform, GitHub Actions, AWS CLI, Linux (CLI), Git.
 - **Languages & Scripting:** Python, SQL, Java, C, JavaScript, HTML/CSS, PHP.
-- **Currently Learning:** Kubernetes Administration (CKA), Laravel.
 - **Tools & Environment:** VS Code, Docker Desktop.
-
 ---
 
 ### 📫 Let's Connect
